@@ -17,18 +17,23 @@ value of the difference between the answer of your program and the optimal value
 10<sup>−3</sup> . To ensure this, output your answer with at least four digits after the decimal point (otherwise your answer, while being computed correctly, can turn out to be wrong because of rounding issues).
 #### Sample 1.
 ##### Input:
-`3 50
+``` 
+3 50
 60 20
 100 50
-120 30`
+120 30 
+```
+
 ##### Output:
 `180.0000`
 
 To achieve the value 180, we take the first item and the third item into the bag.
 #### Sample 2.
 ##### Input:
-`1 10
-500 30`
+```
+1 10
+500 30
+```
 ##### Output:
 `166.6667`
 
